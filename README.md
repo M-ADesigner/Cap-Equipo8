@@ -13,5 +13,3 @@ La cámara genera contenido de forma manual y lo mantiene con acceso restringido
 ## Objetivo general
 
 Desarrollar una plataforma que permita a la cámara **publicar artículos/contenido de forma pública**, utilizando **inteligencia artificial** como apoyo en el proceso de redacción, manteniendo siempre una instancia de **revisión humana** antes de la publicación final.
-
-test proteccion
